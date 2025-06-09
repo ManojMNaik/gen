@@ -1,0 +1,20 @@
+Generative AI Installation
+sudo apt install python3-pip
+
+1st Program installation
+pip install gensim
+
+2nd Program installation
+pip install matplotlib
+pip install scikit-learn
+
+4th Program installation
+pip install torch
+pip install transformers
+
+9th program installation
+pip install pydantic
+pip install wikipedia-api
+
+10th Program installation
+pip install pymupdf
